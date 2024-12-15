@@ -1,2 +1,2 @@
 # NgrxCourseExercise
-### This is my private repository to learn ngrx.
+### This is my private repository to learn angular-ngrx.
